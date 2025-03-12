@@ -1,1 +1,2 @@
 # 2DSimpleRayTracer is a lightweight and visual application for demonstrating the basics of ray tracing in 2D space, implemented using the SDL2 library in C++. The program allows the user to interact in real time with a virtual scene consisting of several objects, a light source and rays that dynamically respond to changes in the scene. The project is ideal for studying the basic principles of ray tracing, as well as for experimenting with interactive graphics.
+![image](https://github.com/user-attachments/assets/e1ac9ab2-8fd6-4c78-8d45-2e9bd79b549a)
